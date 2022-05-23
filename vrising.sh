@@ -10,7 +10,7 @@ sudo usermod -aG docker $USER
 
 #clone v-rising repository and build docker image
 sudo apt install git
-git clone https://github.com/Googlrr/V-Rising-Docker-Linux
+sudo git clone https://github.com/Googlrr/V-Rising-Docker-Linux
 cd V-Rising-Docker-Linux
 sudo docker build . -t vrising:latest
 
