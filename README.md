@@ -12,7 +12,7 @@ Change valheim.sh with:
 
 https://raw.githubusercontent.com/hlista/vrising-bash/main/vrising.sh
 
-Set t3a.medium
+Minimum t3a.medium is needed to run server
 
 Set UDP ports from 27015 to 27016
 
